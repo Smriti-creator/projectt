@@ -1,0 +1,9 @@
+body,
+html {
+  padding: 0;
+  border: 0;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  color: black;
+  background-color: rgb(250, 249, 249);
+}
